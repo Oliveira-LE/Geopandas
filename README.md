@@ -6,7 +6,7 @@ Projeto de desafio desenvolvido durante o curso Geopandas : Trabalhando com dado
 
 O objetivo deste projeto é mapear as opções de atividades culturais em São Paulo, de acordo com a proximidade do metrô. :station:
 
-As atividades desenvolvidas foram: 
+Atividades desenvolvidas: 
   * Manipulação de dados geoespaciais
   * Criação de visualizações de dados geográficos
   * Análise exploratória de dados geoespaciais
